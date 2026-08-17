@@ -1,0 +1,4 @@
+secrets.txt
+passwords.txt
+__pycache__/
+.env
